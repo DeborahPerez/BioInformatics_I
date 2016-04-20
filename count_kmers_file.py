@@ -1,4 +1,4 @@
-
+#Jorge Canelhas 2016
 
 f=open('dataset_2_6.txt','r')
 l1=f.readline().strip()
