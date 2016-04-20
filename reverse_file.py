@@ -1,5 +1,5 @@
 
-
+#2016 Jorge Canelhas
 f=open('dataset_3_2.txt','r')
 l1=f.readline().strip()
 count=0

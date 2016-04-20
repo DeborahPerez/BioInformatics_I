@@ -1,4 +1,4 @@
-
+#2016 Jorge Canelhas
 f=open('Vibrio_cholerae.txt','r')
 l1=f.readline().strip()
 #l2=f.readline().strip()

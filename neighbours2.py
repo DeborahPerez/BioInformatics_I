@@ -1,6 +1,6 @@
 import sys
 import random
-
+#2016 Jorge Canelhas
 #lines = sys.stdin.read().splitlines()
 #chunk=lines[0] #string
 #gene=lines[1] #gene

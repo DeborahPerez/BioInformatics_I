@@ -1,3 +1,5 @@
+#2016 Jorge Canelhas
+
 def PatternCount(Pattern, Text):
     count = 0
     for i in range(len(Text)-len(Pattern)+1):

@@ -6,7 +6,7 @@ import copy
 #l2=lines[1]
 count=0
 
-
+#2016 Jorge Canelhas
 def CumputeNumberToPatern(number,ndigits):
     dic={'0':'A','1':'C','2':'G','3':'T'}
     patern=''

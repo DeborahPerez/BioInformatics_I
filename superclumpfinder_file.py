@@ -1,6 +1,6 @@
 import sys
 import copy
-
+#2016 Jorge Canelhas
 
 f=open('E-coli.txt','r')
 l1=f.readline().strip()

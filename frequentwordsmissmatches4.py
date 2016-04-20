@@ -1,3 +1,5 @@
+#2016 Jorge Canelhas
+
 import sys
 import itertools
 

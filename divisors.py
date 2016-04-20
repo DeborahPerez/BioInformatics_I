@@ -1,3 +1,5 @@
+#2016 Jorge Canelhas
+
 import math
 
 def divisorGenerator(n):

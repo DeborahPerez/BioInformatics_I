@@ -1,5 +1,5 @@
 import sys
-
+#2016 Jorge Canelhas
 lines = sys.stdin.read().splitlines()
 gene=lines[0]
 

@@ -1,4 +1,4 @@
-
+#2016 Jorge Canelhas
 l1='3 5'
 kmersize,nstrings=l1.split(' ')
 kmersize=int(kmersize)

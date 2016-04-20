@@ -1,4 +1,5 @@
-## Example 1: Using looping technique
+#2016 Jorge Canelhas
+# ## Example 1: Using looping technique
 def fib(n):
  a,b = 1,1
  for i in range(n-1):

@@ -1,6 +1,6 @@
 import sys
-
-#lines = sys.stdin.read().splitlines()
+#2016 Jorge Canelhas
+#lines #2016 Jorge Canelhas= sys.stdin.read().splitlines()
 #chunk=lines[0] #string
 #gene=lines[1] #gene
 #l3=lines[2] #allowedmissmatches

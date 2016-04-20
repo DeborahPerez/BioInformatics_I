@@ -1,4 +1,6 @@
-# import sys
+#2016 Jorge Canelhas
+
+#  import sys
 #
 # lines = sys.stdin.read().splitlines()
 # l1=lines[0]

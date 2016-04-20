@@ -1,3 +1,5 @@
+
+#2016 Jorge Canelhas
 gene = 'GAGCCACCGCGATA'
 skew=list()
 currval=0

@@ -1,4 +1,4 @@
-
+#2016 Jorge Canelhas
 import sys
 
 lines = sys.stdin.read().splitlines()
